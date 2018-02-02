@@ -145,7 +145,7 @@ header #logo{}
 
 .content-box.boxstyle-1{background: url(../images/woodworking-background.jpg);position: relative;}
 .content-box.boxstyle-1:before{position: absolute;content: ""; height: 100%; width: 100%;background: rgba(45, 50, 56,0.55);top: 0;left: 0;right: 0;bottom: 0;visibility: initial;}
-.content-box.boxstyle-2{background: url(../images/bg-2.jpg);background-size:cover;}
+.content-box.boxstyle-2{background: url(../images/hammer_nails.jpg);background-size:cover;}
 .content-box.boxstyle-3{background: #222 url(../images/bg3.jpg) fixed;color: #fff;}
 
 .content-box.box-1 {}
